@@ -236,9 +236,3 @@ pytest -v
 ---
 
 **¡Esmerate aprendiendo FastAPI! 🚀**
-
-Otro Texto para prueba
-Otra Linea para Test Lock Main
-
-Otra linea para prueba
-una mas
